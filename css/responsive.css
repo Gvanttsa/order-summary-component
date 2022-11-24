@@ -1,3 +1,48 @@
-@media (max-width: 1440px) {
-    
+@media (max-width: 375px) {
+   .main-div {
+    max-width: 327px;
+    width: 100%;
+   } 
+   .title {
+    font-size: 22px;
+    line-height: 29px;
+    margin-bottom: 16px;
+   }
+   .text {
+    font-size: 15px;
+    line-height: 25px
+   }
+   .music-box {
+    max-width: 279px;
+    width: 100%;
+    padding: 17px 16px;
+    margin-bottom: 24px;
+   }
+   .plan-title {
+    font-size: 14px;
+    line-height: 19px;
+    width: 88.66px;
+   }
+   .price {
+    font-size: 14px;
+    line-height: 19px;
+   }
+   .change { 
+    margin-left: 42px; 
+    font-size: 13px;
+    line-height: 17px;
+   }
+   .payment {
+    width: 279px;
+    margin-bottom: 24px;
+   }
+   .cancel-text {
+    margin-bottom: 32px;
+   }
+   .box-img-div {
+    margin-bottom: 20.58px;
+   }
+   .box-text-div {
+    margin-bottom: 24px;
+   }
 }
